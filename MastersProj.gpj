@@ -12,13 +12,11 @@ s#k0
 s#j0
 s#l0
 !80;u
-a1	b68	c255	f%\011VisualCrypt.jar	g%\011VisualCrypt.zip	hManifest-Version\0111.0!87;g
-%\011SizeInvariantVCS.java
+a1	b68	c255	f%\011VisualCrypt.jar	g%\011VisualCrypt.zip	hManifest-Version\0111.0!66;g
+%\011MastersProjApp.java
 %\011ExtendedVCS.java
-%\011VCSTests.java
 %\011PixelVCS.java
-!87;f
-%\011SizeInvariantVCS.java
+!66;f
+%\011MastersProjApp.java
 %\011ExtendedVCS.java
-%\011VCSTests.java
 %\011PixelVCS.java
